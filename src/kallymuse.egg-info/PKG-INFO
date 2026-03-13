@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: kallymuse
+Version: 0.0.1
+Summary: a python module designed for the purpose of making snippets out of music21
+Requires-Dist: ipykernel
+Requires-Dist: music21
+Dynamic: description
+Dynamic: requires-dist
+Dynamic: summary
+
+this python module for use with music21. it aims at making anki flashcards from the notes in a given piece of music. To do this it gives the user asses to python classes that can convert strings into music notation.

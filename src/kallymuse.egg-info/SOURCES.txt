@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/kallymuse/__init__.py
+src/kallymuse.egg-info/PKG-INFO
+src/kallymuse.egg-info/SOURCES.txt
+src/kallymuse.egg-info/dependency_links.txt
+src/kallymuse.egg-info/requires.txt
+src/kallymuse.egg-info/top_level.txt
